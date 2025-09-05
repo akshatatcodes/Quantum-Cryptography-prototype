@@ -1,0 +1,28 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="180" height="180" fill="#0a0f1a" rx="32"/>
+  
+  <!-- Outer Quantum Ring -->
+  <circle cx="90" cy="90" r="78" fill="none" stroke="#00ffff" stroke-width="5" opacity="0.8"/>
+  
+  <!-- Middle Ring -->
+  <circle cx="90" cy="90" r="56" fill="none" stroke="#ff00ff" stroke-width="5" opacity="0.9"/>
+  
+  <!-- Inner Ring -->
+  <circle cx="90" cy="90" r="34" fill="none" stroke="#00ff00" stroke-width="5" opacity="1"/>
+  
+  <!-- Central Quantum Symbol -->
+  <path d="M68 90 Q90 68 112 90 Q90 112 68 90" fill="#00ffff" stroke="#00ffff" stroke-width="2.5"/>
+  
+  <!-- Quantum Dots -->
+  <circle cx="68" cy="90" r="5" fill="#00ffff"/>
+  <circle cx="112" cy="90" r="5" fill="#ff00ff"/>
+  <circle cx="90" cy="68" r="5" fill="#00ff00"/>
+  <circle cx="90" cy="112" r="5" fill="#ffff00"/>
+  
+  <!-- Additional Quantum Particles -->
+  <circle cx="90" cy="34" r="3" fill="#00ffff" opacity="0.7"/>
+  <circle cx="146" cy="90" r="3" fill="#ff00ff" opacity="0.7"/>
+  <circle cx="90" cy="146" r="3" fill="#00ff00" opacity="0.7"/>
+  <circle cx="34" cy="90" r="3" fill="#ffff00" opacity="0.7"/>
+</svg>

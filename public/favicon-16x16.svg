@@ -1,0 +1,22 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="16" height="16" fill="#0a0f1a"/>
+  
+  <!-- Outer Quantum Ring -->
+  <circle cx="8" cy="8" r="7" fill="none" stroke="#00ffff" stroke-width="0.5" opacity="0.8"/>
+  
+  <!-- Middle Ring -->
+  <circle cx="8" cy="8" r="5" fill="none" stroke="#ff00ff" stroke-width="0.5" opacity="0.9"/>
+  
+  <!-- Inner Ring -->
+  <circle cx="8" cy="8" r="3" fill="none" stroke="#00ff00" stroke-width="0.5" opacity="1"/>
+  
+  <!-- Central Quantum Symbol -->
+  <path d="M6 8 Q8 6 10 8 Q8 10 6 8" fill="#00ffff" stroke="#00ffff" stroke-width="0.3"/>
+  
+  <!-- Quantum Dots -->
+  <circle cx="6" cy="8" r="0.5" fill="#00ffff"/>
+  <circle cx="10" cy="8" r="0.5" fill="#ff00ff"/>
+  <circle cx="8" cy="6" r="0.5" fill="#00ff00"/>
+  <circle cx="8" cy="10" r="0.5" fill="#ffff00"/>
+</svg>
