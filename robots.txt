@@ -1,0 +1,7 @@
+# Q6Fold Quantum Encryption Demo - Robots.txt
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+# Quantum encryption demonstration
+# Experience the future of secure communication through quantum mechanics and BB84 protocol

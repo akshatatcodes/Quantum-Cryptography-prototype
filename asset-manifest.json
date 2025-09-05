@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quantum-Cryptography-prototype/static/css/main.fc372b35.css",
+    "main.js": "/Quantum-Cryptography-prototype/static/js/main.36e0d11e.js",
+    "index.html": "/Quantum-Cryptography-prototype/index.html",
+    "main.fc372b35.css.map": "/Quantum-Cryptography-prototype/static/css/main.fc372b35.css.map",
+    "main.36e0d11e.js.map": "/Quantum-Cryptography-prototype/static/js/main.36e0d11e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc372b35.css",
+    "static/js/main.36e0d11e.js"
+  ]
+}
